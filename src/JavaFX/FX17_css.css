@@ -1,0 +1,14 @@
+.root{
+}
+
+.label {
+-fx-font-family: "Courier New";
+-fx-font: 20 px;
+-fx-text-fill: green;
+}
+
+#myLabel{
+-fx-text-fill: white;
+-fx-font: 15 px;
+}
+
